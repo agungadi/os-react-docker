@@ -1,4 +1,5 @@
 name: cicd-demo
+
 on:
   push:
     branches:
